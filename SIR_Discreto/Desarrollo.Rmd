@@ -1,0 +1,20 @@
+---
+title: "Desarrollo"
+author: "Pablo Herrera"
+date: "02-05-2020"
+output: html_document
+---
+
+
+
+
+### Implementación
+
+  * Pablo Herrera (UC) 
+
+### Asesoramiento Técnico
+
+  * Gregorio Moreno (UC)
+  * Duvan Henao (UC)
+
+
